@@ -1,12 +1,9 @@
 <h1 align="center">Risk Analysis and Calculator for Stillbirth</h1>
----
-
 This Repository contains the backend files for the stillbirth calculator app that only meant for deployment!!
 
 tags:
   - python
   - flask
----
 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
