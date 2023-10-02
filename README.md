@@ -1,14 +1,13 @@
 ---
-title: Flask
-description: A popular minimal server framework for Python
+<h1 align="center">Risk Analysis and Calculator for Stillbirth</h1>
+
+This Repository contains the backend files for the stillbirth calculator app that only meant for deployment!!
+
 tags:
   - python
   - flask
 ---
 
-# Python Flask Example
-
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a simple JSON response.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
 
@@ -19,5 +18,27 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 
 ## 💁‍♀️ How to use
 
-- Install Python requirements `pip install -r requirements.txt`
-- Start the server for development `python3 main.py`
+<h3 align="center">Backend</h3>
+
+* pip
+* Flask
+  ```sh
+  pip install Flask
+  ```
+
+### Installation
+
+Setup Application on local machine: 
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Asuna-AS/stillbirth-backend.git
+   ```
+2. Install required libraries from requirements.txt file
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Start the server
+   ```sh
+   flask --app app.py run
+   ```
