@@ -1,17 +1,5 @@
 <h1 align="center">Risk Analysis and Calculator for Stillbirth</h1>
-This Repository contains the backend files and model for the Risk analysis and stillbirth calculator app !!
-
-## ✨ Features
-
-- Python
-- Flask
-
-## 💁‍♀️ How to use
-
-<h3 align="center">Backend</h3>
-  ```sh
-  pip install Flask
-  ```
+<h2 align="center">This Repository contains the backend files and model for the Risk analysis and stillbirth calculator app !!</h2>
 
 ### Installation
 
