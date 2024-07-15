@@ -13,9 +13,6 @@ This Repository contains the backend files for the stillbirth calculator app tha
 ## 💁‍♀️ How to use
 
 <h3 align="center">Backend</h3>
-
-* pip
-* Flask
   ```sh
   pip install Flask
   ```
