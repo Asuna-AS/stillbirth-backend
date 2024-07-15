@@ -1,5 +1,4 @@
 <p align="center"><img width="100px" src="https://github.com/Asuna-AS/stillBirthPredictionApp/assets/75484060/8022c3ae-47ff-4865-b173-8e1bf8d44c6c"></img></p>
-<h1 align="center">Risk Analysis and Calculator for StillBirth</h1>
 <h1 align="center">Risk Analysis and Calculator for Stillbirth</h1>
 <h4 align="center">This Repository contains the backend files and model for the Risk analysis and stillbirth calculator app !!</h4>
 
